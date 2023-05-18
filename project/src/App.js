@@ -246,14 +246,10 @@ function App() {
 
           </AccordionTab>
           <AccordionTab header="UML">
-              <p className="m-0">
-                  Test 2
-              </p>
+            <i className="pi pi-question-circle"></i>
           </AccordionTab>
           <AccordionTab header="Other">
-              <p className="m-0">
-                  Test 3
-              </p>
+            <i className="pi pi-question-circle"></i>
           </AccordionTab>
       </Accordion>
       </div>
